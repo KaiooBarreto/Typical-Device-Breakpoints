@@ -1,0 +1,17 @@
+#itv{ display: none;  }
+#iprint{ display: none;  }
+#ipc{ display: block; margin: auto; }
+#itablet{ display: none;  }
+#iiphone{ display: none; }
+
+body{
+background-image: url(../imagens/back-pc.jpg);
+
+
+}
+
+main{
+background-color: rgba(255, 255, 255, 0.651);
+height: 300px;
+width: 500px;
+}

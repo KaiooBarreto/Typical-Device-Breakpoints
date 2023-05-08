@@ -1,0 +1,18 @@
+#itv{ display: none;  }
+#iprint{ display: none;  }
+#ipc{ display: none;  }
+#itablet{ display: block;  margin: auto;}
+#iiphone{ display: none; }
+
+body{
+background-image: url(../imagens/back-tablet.jpg);
+
+
+}
+
+h1{
+    text-shadow: 2px 2px 2px black;
+    
+    
+    
+    }

@@ -1,0 +1,11 @@
+#itv{ display: none;  }
+#iprint{ display: none;  }
+#ipc{ display: none;  }
+#itablet{ display: none;  }
+#iiphone{ display: block; }
+
+body{
+background-image: url(../imagens/back-phone.jpg);
+
+
+}
